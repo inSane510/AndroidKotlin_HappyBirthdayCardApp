@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Happy Birthday-Learning_Project</string>
+    <string name="tools_ignore_contentdescription">tools:ignore=ContentDescription</string>
+    <string name="happy_birthday_text">Happy Birthday, Sam!</string>
+    <string name="happy_birthday_text_from">From Emma.</string>
+</resources>
